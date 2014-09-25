@@ -1,5 +1,6 @@
 Remote Control Server
 ===================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cxulo/RemoteControlServer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![Banner](http://remote-control-collection.com/files/posts/server_gui_advanced.png "Remote Control Collection")
 
